@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores principales -->
+    <color name="colorPrimary">#007AFF</color>        <!-- Azul principal -->
+    <color name="colorPrimaryDark">#005BBB</color>    <!-- Azul oscuro -->
+    <color name="colorAccent">#34C759</color>         <!-- Verde de acento -->
+
+    <!-- Fondo y texto -->
+    <color name="colorBackground">#FFFFFF</color>      <!-- Blanco -->
+    <color name="colorTextPrimary">#000000</color>     <!-- Texto principal -->
+    <color name="colorTextSecondary">#A0A0A0</color>   <!-- Texto secundario -->
+
+    <!-- Bordes y estados -->
+    <color name="colorBorder">#D9D9D9</color>          <!-- Borde gris claro -->
+    <color name="colorDisabled">#E6E6E6</color>        <!-- Fondo deshabilitado -->
+    <color name="colorError">#FF3B30</color>           <!-- Rojo de error -->
+
+    <!-- Otros -->
+    <color name="colorCardOutline">#007AFF</color>
+    <color name="colorHint">#808080</color>
+</resources>

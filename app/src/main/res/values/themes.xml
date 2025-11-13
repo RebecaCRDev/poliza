@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema principal de la app -->
+    <style name="Theme.Poliza" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Color de fondo global -->
+        <item name="android:colorBackground">#F5F5F5</item>
+
+        <!-- Colores básicos -->
+        <item name="colorPrimary">#0055CC</item>
+        <item name="colorSecondary">#E6F0FF</item>
+        <item name="android:textColorPrimary">#000000</item>
+
+        <!-- Sin barra superior -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <!-- Evita forzar fondo blanco -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+</resources>
